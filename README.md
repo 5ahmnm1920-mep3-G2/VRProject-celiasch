@@ -1,7 +1,7 @@
 # VR Project Celiasch
 
 ## Concept
-A 3D globe is in the middle of a room. The player has to 
+A 3D globe is in the middle of a room. The player has to get the right object from the tree and put them on the right place. 
   
 ### Controls
 #### Movement
