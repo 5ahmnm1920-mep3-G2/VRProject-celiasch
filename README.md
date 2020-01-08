@@ -1,13 +1,13 @@
 # VR Project Celiasch
 
 ## Concept
-A 3D globe is in the middle of a room. The player has to get the right object from the tree and put them on the right place to make the globe spin. 
+A 3D globe is in the middle of a room. The player has to pick up trash, laying around the globe. If he picks up a piece of trash, a tree appears in the room. The player has to repeat this step three times. Then the globe spins and the game ends. 
   
 ### Controls
 #### Movement
 Look longer at the waypoints to teleport.
 #### Mechanics
-Look longer on Objects to interact with them.
+Look longer on Objects to pick them up. 
 
 ## Dev-Platform
  + Windows 10 64 bit 
@@ -19,11 +19,20 @@ Look longer on Objects to interact with them.
 ## Target-Platfrom
  + Android
  + Mobile
+ + 1920 x 1080 px
 
 ## Status
 1%
 
 ## Gameplay Screenshots
+### Pick up Trash
+<div>
+<img src = "./Screenshots/Skizze1.jpg" width = "500">
+</div>
+### Grow Trees
+<div>
+<img src = "./Screenshots/Skizze2.jpg" width = "500">
+</div>
 
 ## Lessons Learned
 
