@@ -36,8 +36,9 @@ Look longer on Objects to pick them up.
 </div>
 
 ## Lessons Learned
-
++ How to Setup Unity for VR Games (SDK Download,..)
 ## Limitations
+
 
 ## Resources used
 
