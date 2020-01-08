@@ -27,11 +27,12 @@ Look longer on Objects to pick them up.
 ## Gameplay Screenshots
 ### Pick up Trash
 <div>
-<img src = "./Screenshots/Skizze1.jpg" width = "300">
+<img src = "./Screenshots/Skizze1.jpg" width = "100">
 </div>
+
 ### Grow Trees
 <div>
-<img src = "./Screenshots/Skizze2.jpg" width = "300">
+<img src = "./Screenshots/Skizze2.jpg" width = "100">
 </div>
 
 ## Lessons Learned
