@@ -1,7 +1,7 @@
-# VR Project Celiasch
+# Save Your World! VR
 
 ## Concept
-A 3D globe is in the middle of a room. The player has to pick up trash, laying around the globe. If he picks up a piece of trash, a tree appears in the room. The player has to repeat this step three times. Then the globe spins and the game ends. 
+A 3D globe is in the middle of a room. The player has to pick up trash, laying around the globe. If he picks up a piece of trash, a tree appears in the room. The player has to repeat this step three times. Then the globe spins, the game ends and the world is saved of climate change. 
   
 ### Controls
 #### Movement
@@ -22,7 +22,7 @@ Look longer on Objects to pick them up.
  + 1920 x 1080 px
 
 ## Status
-1%
+3%
 
 ## Gameplay Screenshots
 ### Pick up Trash
