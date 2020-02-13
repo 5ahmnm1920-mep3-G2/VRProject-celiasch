@@ -25,7 +25,7 @@ public class PlayerGrab : MonoBehaviour {
             if (!inHands)
             {
                 plasticCup.transform.SetParent(inventar.transform);
-                plasticCup.transform.localPosition = new Vector3(2.14f, 0.186f, 1.93f);
+                plasticCup.transform.localPosition = new Vector3(-1.26f, 0.04f, 0.02f);
                 inHands = true;           
             } else if (inHands)
             {
