@@ -5,9 +5,10 @@ A 3D globe is in the middle of a room. The player has to pick up trash, laying a
   
 ### Controls
 #### Movement
-Look longer at the waypoints to teleport.
+Press the Button and look in the Direction you want to go.
 #### Mechanics
-Look longer on Objects to pick them up. 
++ Press the Button while looking Objects to pick them up.
++ Press the Button to Release the Object.
 
 ## Dev-Platform
  + Windows 10 64 bit 
@@ -22,7 +23,7 @@ Look longer on Objects to pick them up.
  + 1920 x 1080 px
 
 ## Status
-3%
+70%
 
 ## Gameplay Screenshots
 ### Pick up Trash
@@ -35,11 +36,29 @@ Look longer on Objects to pick them up.
 <img src = "./Screenshots/Skizze2.jpg" width = "200">
 </div>
 
+### Game Play
+<div>
+<img src = "./Screenshots/GamePlay.PNG" width = "200">
+</div>
+
 ## Lessons Learned
 + How to Setup Unity for VR Games (SDK Download,..)
-## Limitations
++ How to Walk in VR 
++ How to Interact with Objects (Pick up)
++ First Time using the Unity Asset Store
 
+## Limitations
++ You can not exactly define where you release the cup. It automatically appears in the trash bin as soon as you start walking and press the button. 
++ There is only one cup implemented by now. The Game has no end.
 
 ## Resources used
++ Earth 3D Model: https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399
++ Tree 3D Model: https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
++ Trash Bin 3D Model: https://assetstore.unity.com/packages/3d/props/furniture/trash-bin-96670
++ Plastic Cup 3D Model: https://free3d.com/3d-model/plastic-cup-high-poly-version-79161.html
+
++ Grab/release object for Google cardboard Tutorial: https://www.youtube.com/watch?v=wWSYT-Yrr9E
++ Basic Setup Google Cardboard Tutorial: https://www.youtube.com/watch?v=OEP7sMwfZnE&list=PLiuDBLn1FK-QOmpA3Vs2JY0DVAj0GfFPn
++ Player Movement Tutorial: https://www.youtube.com/watch?v=Qgpb5QzhuOg&list=PLiuDBLn1FK-QOmpA3Vs2JY0DVAj0GfFPn&index=2
 
 **Copyright by Clea Eliasch**

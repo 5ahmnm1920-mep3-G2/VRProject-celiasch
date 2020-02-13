@@ -2485,7 +2485,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Pick up the piece of Trash \nTo Save Your World"
+  m_Text: "Pick up the Piece of Trash \nTo Save Your World"
 --- !u!222 &2005326215
 CanvasRenderer:
   m_ObjectHideFlags: 0
