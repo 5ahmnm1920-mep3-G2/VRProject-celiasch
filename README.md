@@ -7,7 +7,7 @@ A 3D globe is in the middle of a room. The player has to pick up trash, laying a
 #### Movement
 Press the Button and look in the Direction you want to go.
 #### Mechanics
-+ Press the Button while looking Objects to pick them up.
++ Press the Button while looking at an Object to pick it up.
 + Press the Button to Release the Object.
 
 ## Dev-Platform
@@ -38,7 +38,7 @@ Press the Button and look in the Direction you want to go.
 
 ### Game Play
 <div>
-<img src = "./Screenshots/GamePlay.PNG" width = "200">
+<img src = "./Screenshots/GamePlay.PNG" width = "400">
 </div>
 
 ## Lessons Learned
