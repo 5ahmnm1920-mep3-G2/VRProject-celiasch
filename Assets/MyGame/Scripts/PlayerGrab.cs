@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerGrab : MonoBehaviour { 
 
@@ -10,15 +8,14 @@ public class PlayerGrab : MonoBehaviour {
 
     bool inHands = false;
     Vector3 binPos;
+    Vector3 treePos;
 
-
-    // Start is called before the first frame update
     void Start()
     {
         binPos = new Vector3(-1.26f, 0.1f, 0.02f);
+        treePos = new Vector3(2.14f, 0.186f, 1.93f);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))
@@ -33,12 +30,10 @@ public class PlayerGrab : MonoBehaviour {
                 this.GetComponent<PlayerGrab>().enabled = false;
                 plasticCup.transform.SetParent(null);
                 plasticCup.transform.localPosition = binPos;
-                tree1.transform.localPosition = new Vector3(2.14f, 0.186f, 1.93f);
+                tree1.transform.localPosition = treePos;
                 inHands = false;
             }
         }
-
-    
     }
 }
 

@@ -60,5 +60,10 @@ Press the Button and look in the Direction you want to go.
 + Grab/release object for Google cardboard Tutorial: https://www.youtube.com/watch?v=wWSYT-Yrr9E
 + Basic Setup Google Cardboard Tutorial: https://www.youtube.com/watch?v=OEP7sMwfZnE&list=PLiuDBLn1FK-QOmpA3Vs2JY0DVAj0GfFPn
 + Player Movement Tutorial: https://www.youtube.com/watch?v=Qgpb5QzhuOg&list=PLiuDBLn1FK-QOmpA3Vs2JY0DVAj0GfFPn&index=2
++ Basic Google Cardboard Unity Starting Tutorial 1: https://developers.google.com/vr/develop/android/get-started
++ Basic Google Cardboard Unity Starting Tutorial 2: https://docs.unity3d.com/Manual/android-sdksetup.html 
+
+## Documentation Of The Project
+You can find the whole documentation of SAVEYOURWORLD! in this project folder. (SAVEYOURWORLD_Dokumentation.pdf)
 
 **Copyright by Clea Eliasch**
