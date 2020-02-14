@@ -64,6 +64,5 @@ Press the Button and look in the Direction you want to go.
 + Basic Google Cardboard Unity Starting Tutorial 2: https://docs.unity3d.com/Manual/android-sdksetup.html 
 
 ## Documentation Of The Project
-You can find the whole documentation of SAVEYOURWORLD! in this project folder. (SAVEYOURWORLD_Dokumentation.pdf)
-
+You can find the whole documentation of SAVEYOURWORLD! in this project folder. [CLICK HERE](SAVEYOURWORLD_Dokumentation.pdf)
 **Copyright by Clea Eliasch**
